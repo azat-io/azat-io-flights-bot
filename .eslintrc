@@ -1,0 +1,14 @@
+{
+  "extends": "airbnb-base",
+  "globals": {
+    "localStorage": true,
+    "fetch": true
+  },
+  "rules": {
+    "arrow-parens": ["error", "as-needed"],
+    "no-console": "off",
+    "object-curly-newline": "off",
+    "operator-linebreak": ["error", "after"],
+    "semi": ["error", "never"]
+  }
+}
