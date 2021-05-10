@@ -15,7 +15,7 @@
     "@babel/preset-env": "7.6.2",
     "aviasales": "2.0.9",
     "dotenv": "8.1.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "socks5-https-client": "1.2.1",
     "telegraf": "3.32.0"
   },
